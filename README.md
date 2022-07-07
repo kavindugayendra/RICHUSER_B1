@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_ι αм qυєєη αηυ
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=Picsart_22-07-07_19-20-36-580.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IBmcCYL2YUpFZJdWMA68it) 
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JLC2VS3gw4iCcoWJ8odNja)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
+  [![Richuser](<img src=Picsart_22-07-07_19-20-36-580.jpg>
  https://github.com/Richuser_b1 |  
 ----|
 [Its_me_Richu](https://github.com/Richuser_b1)  |
